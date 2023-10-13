@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yaseen175
-- 👀 I’m interested in computing
-- 🌱 I’m currently learning php
+- 👀 I’m love making apps and website and in general coding.
 - 💞️ I’m looking to collaborate on a project
 
 <!---
